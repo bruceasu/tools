@@ -1,0 +1,1 @@
+mstsc /v: 172.30.6.113 /console
